@@ -5,7 +5,7 @@ using namespace std;
 class mahasiswa {
 private:
     int nim;
-    string nama;
+  a  string nama;
 
 public:
     mahasiswa();
@@ -16,7 +16,7 @@ public:
 };
 
 // constructor default
-mahasiswa::mahasiswa() {
+mhasiswa::mahasiswa() {
 }
 
 // constructor hanya NIM
